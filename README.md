@@ -1,0 +1,2 @@
+My first thought was I would need to flatten data before querying it for fear querying Json directly would be too costly but I implemented approach of flattening in the query functions first and that seemed to perform pretty well.
+If this were a production product would have wanted to build out both and compare memoery usage & performance. Would also have been tempted to flatten & export data to make testing & validation with larger datasets easier. 

@@ -1,0 +1,272 @@
+[
+  {
+    "user_id": 29891,
+    "datetime_completed": "2018-03-05 06:42:13",
+    "blocks": [
+      {
+        "exercise_id": 568,
+        "sets": [
+          {
+            "reps": 3,
+            "weight": 0
+          },
+          {
+            "reps": 6,
+            "weight": 160
+          }
+        ]
+      },
+      {
+        "exercise_id": 568,
+        "sets": [
+          {
+            "reps": 1,
+            "weight": 155
+          },
+          {
+            "reps": 3,
+            "weight": null
+          },
+          {
+            "reps": 9,
+            "weight": 145
+          }
+        ]
+      },
+      {
+        "exercise_id": 797,
+        "sets": [
+          {
+            "reps": 12,
+            "weight": null
+          },
+          {
+            "reps": 4,
+            "weight": 145
+          },
+          {
+            "reps": 1,
+            "weight": 155
+          },
+          {
+            "reps": 0,
+            "weight": 160
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 5101,
+    "datetime_completed": "2016-01-25 17:07:33",
+    "blocks": [
+      {
+        "exercise_id": 797,
+        "sets": [
+          {
+            "reps": 7,
+            "weight": 315
+          },
+          {
+            "reps": 7,
+            "weight": 225
+          },
+          {
+            "reps": 0,
+            "weight": 185
+          },
+          {
+            "reps": 15,
+            "weight": 160
+          },
+          {
+            "reps": 2,
+            "weight": 155
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 9705,
+    "datetime_completed": "2017-11-20 00:04:27",
+    "blocks": [
+      {
+        "exercise_id": 326,
+        "sets": [
+          {
+            "reps": 9,
+            "weight": 160
+          },
+          {
+            "reps": 13,
+            "weight": 285
+          },
+          {
+            "reps": 11,
+            "weight": 0
+          },
+          {
+            "reps": 8,
+            "weight": null
+          },
+          {
+            "reps": 13,
+            "weight": 160
+          },
+          {
+            "reps": 7,
+            "weight": 285
+          }
+        ]
+      },
+      {
+        "exercise_id": 797,
+        "sets": [
+          {
+            "reps": 11,
+            "weight": 155
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 5101,
+    "datetime_completed": "2018-06-12 20:34:26",
+    "blocks": [
+      {
+        "exercise_id": 326,
+        "sets": [
+          {
+            "reps": 12,
+            "weight": 315
+          },
+          {
+            "reps": 0,
+            "weight": 285
+          },
+          {
+            "reps": 7,
+            "weight": 155
+          },
+          {
+            "reps": 0,
+            "weight": 350
+          },
+          {
+            "reps": 8,
+            "weight": 225
+          },
+          {
+            "reps": 7,
+            "weight": 350
+          }
+        ]
+      },
+      {
+        "exercise_id": 568,
+        "sets": [
+          {
+            "reps": 9,
+            "weight": 160
+          },
+          {
+            "reps": 11,
+            "weight": 275
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 9705,
+    "datetime_completed": "2018-07-03 01:16:14",
+    "blocks": [
+      {
+        "exercise_id": 797,
+        "sets": [
+          {
+            "reps": 1,
+            "weight": 275
+          },
+          {
+            "reps": 1,
+            "weight": 135
+          },
+          {
+            "reps": 11,
+            "weight": 225
+          },
+          {
+            "reps": 5,
+            "weight": 155
+          },
+          {
+            "reps": 4,
+            "weight": 135
+          },
+          {
+            "reps": 5,
+            "weight": 0
+          },
+          {
+            "reps": 9,
+            "weight": 275
+          },
+          {
+            "reps": 0,
+            "weight": 185
+          },
+          {
+            "reps": 3,
+            "weight": 275
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 29891,
+    "datetime_completed": "2018-06-03 22:57:25",
+    "blocks": [
+      {
+        "exercise_id": 326,
+        "sets": [
+          {
+            "reps": 6,
+            "weight": 350
+          },
+          {
+            "reps": 4,
+            "weight": 285
+          },
+          {
+            "reps": 14,
+            "weight": 160
+          },
+          {
+            "reps": 10,
+            "weight": 315
+          },
+          {
+            "reps": 7,
+            "weight": 155
+          },
+          {
+            "reps": 13,
+            "weight": 225
+          },
+          {
+            "reps": 0,
+            "weight": 160
+          },
+          {
+            "reps": 14,
+            "weight": 155
+          }
+        ]
+      }
+    ]
+  }
+]

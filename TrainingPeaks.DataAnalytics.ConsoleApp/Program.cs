@@ -37,7 +37,7 @@ namespace TrainingPeaks.DataAnalytics.ConsoleApp
                     // How many total pounds did Barry Moore Back Squat in 2016?
                     var userId = context.Users?.SingleOrDefault(u => u.FirstName == "Barry" && u.LastName == "Moore")?.Id;
                     var exerciseId = context.Exercises?.SingleOrDefault(e => e.Title == "Back Squat")?.Id;
-                    var daterange = new DateRange(new DateTime(2016, 1, 1), new DateTime(2016, 12, 31));
+                    var daterange = new DateRange(new DateTime(2016, 1, 1), new DateTime(2016, 12, 31,23,59,59));
                     DataFilter filter = new DataFilter{
                         ExerciseId = exerciseId,
                         UserId = userId,
@@ -46,7 +46,7 @@ namespace TrainingPeaks.DataAnalytics.ConsoleApp
                     answerOutput.Question2 = context.TotalWeight(filter);
 
                     // In what month of 2017 did Barry Moore Back Squat the most total weight?
-                    filter.DateRange = new DateRange(new DateTime(2017, 1, 1), new DateTime(2017, 12, 31));
+                    filter.DateRange = new DateRange(new DateTime(2017, 1, 1), new DateTime(2017, 12, 31,23,59,59));
                     var monthData = context.TotalWeightByMonth(filter);
                     var monthWithHighestWeight = (int)(monthData.MaxBy(m => m.TotalWeight)?.Month ?? 0);
                     var year = (int)(monthData.MaxBy(m => m.TotalWeight)?.Year ?? 0);
